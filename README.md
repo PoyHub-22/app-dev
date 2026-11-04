@@ -1,46 +1,49 @@
 # app-dev
 My first repository
 
-# My Favorite Movie: It's a Wonderful Life
+# My Favorite Movie: The Avengers
 
-**It's a Wonderful Life** is a classic movie about family, friendship, and the value of a person's life. Its message is simple: even small acts of kindness can make a big difference.
+**The Avengers** is my favorite movie because it brings different superheroes together in one exciting story. I enjoy the action, funny moments, and the way the heroes learn to work as a team.
 
 ## Movie Information
 
 | Detail | Information |
 | --- | --- |
-| Title | It's a Wonderful Life |
-| Release year | 1946 |
-| Director | Frank Capra |
-| Main character | George Bailey |
-| Setting | Bedford Falls |
+| Title | The Avengers |
+| Release year | 2012 |
+| Director | Joss Whedon |
+| Genre | Superhero, action, and science fiction |
+| Studio | Marvel Studios |
 
 ## About the Story
 
-George Bailey often puts other people's needs before his own dreams. When he faces a serious problem, an angel named *Clarence* helps him see how different his town would be if he had never been born.
+When *Loki* threatens Earth with an alien invasion, Nick Fury brings together a team of superheroes. They must put aside their differences and work together to protect the world.
 
-### Main Characters
+### Main Heroes
 
-- **George Bailey**: a caring man who helps his community.
-- **Mary Bailey**: George's loving and supportive wife.
-- **Clarence**: the angel who shows George the value of his life.
+- **Iron Man**: Tony Stark uses his armored suit and technology to fight.
+- **Captain America**: Steve Rogers leads with courage and his shield.
+- **Thor**: a powerful hero from Asgard who carries a hammer.
+- **Hulk**: Bruce Banner transforms into a strong green hero.
+- **Black Widow**: Natasha Romanoff is a skilled spy and fighter.
+- **Hawkeye**: Clint Barton is an expert archer.
 
 ## Why I Like It
 
-1. It shows the importance of family and friends.
-2. It reminds me to appreciate the people around me.
-3. It teaches that helping others gives life meaning.
+1. The heroes have different powers and personalities.
+2. The action scenes are exciting, especially the battle in New York.
+3. The story shows how teamwork can overcome a difficult challenge.
 
-> My takeaway: a person's kindness can change more lives than they realize.
+> My takeaway: people with different strengths can achieve more when they work together.
 
 ## Lessons from the Movie
 
-- Be kind, even through difficult times.
-- Value people and relationships.
-- Remember that your life matters.
+- Help others when they are in danger.
+- Trust your teammates.
+- Be brave and take responsibility for your actions.
 
 ---
 
-Learn more about the movie on [Wikipedia](https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life).
+Learn more about [The Avengers on Marvel's website](https://www.marvel.com/movies/the-avengers).
 
-This README uses headings, **bold text**, *italic text*, lists, a table, a blockquote, a link, and a horizontal rule. The file is named `README.md`.
+This movie reminds me that **teamwork**, *trust*, and courage are important.
