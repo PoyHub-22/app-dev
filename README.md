@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# My Favorite Movie: The Avengers
+# My Favorite movie is Avengers
 
 **The Avengers** is my favorite movie because it brings different superheroes together in one exciting story. I enjoy the action, funny moments, and the way the heroes learn to work as a team.
 
